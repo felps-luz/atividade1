@@ -1,0 +1,10 @@
+﻿  atividade1.cpp
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(5,8): error C3872: '0xa7': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(5,8): error C3872: '0xa3': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(7,8): error C3872: '0xa7': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(7,8): error C3872: '0xa3': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(7,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(9,21): error C3872: '0xa7': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(9,21): error C3872: '0xa3': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(9,50): error C3872: '0xa7': este caractere não é permitido em um identificador
+C:\Users\48428041814\Desktop\Trabalhos\atividade1\atividade1\atividade1.cpp(9,50): error C3872: '0xa3': este caractere não é permitido em um identificador
